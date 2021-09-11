@@ -1,2 +1,2 @@
 # Fingerprint-verification-using-SIFT
-Biometric System
+Biometric System using SIFT feature extraction.
